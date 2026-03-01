@@ -1,0 +1,7 @@
+{
+  "tv_server_urls": [
+    "http://LOCAL_IP:8766",
+    "http://TAILSCALE_IP:8766"
+  ],
+  "request_timeout": 10
+}
